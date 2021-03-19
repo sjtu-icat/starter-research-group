@@ -3,18 +3,46 @@
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the site.
-[en]
-  languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+#[en]
+#  languageCode = "en-us"
+#  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[zh]
+  languageCode = "zh-Hans"
+  contentDir = "content/zh"
+  title = "智能计算机体系结构实验室"
+  copyright = "&copy; {year} 智能计算机体系结构实验室 · 上海交通大学"
+  [zh.params]
+    description = "Site description in Chinese..."
+    # address = {street = "东川路800号", city = "上海市", postcode = "200240", country = "中国", country_code = "CN"}
+    address = {}
+    directions = "上海市闵行区东川路800号上海交通大学微电子大楼205室"
+    address_format = "zh"
+  [[zh.menu.main]]
+    name = "成员"
+    # identifier = "about"
+    pre = "<i class='fa fa-user'>&nbsp;</i>"
+    url = "people"
+    weight = 20
+  [[zh.menu.main]]
+    name = "动态"
+    # parent = "about"
+    pre = "<i class='fa fa-paper-plane'>&nbsp;</i>"
+    url = "post"
+    weight = 30
+  [[zh.menu.main]]
+    name = "项目"
+    url = "projects"
+    pre = "<i class='fa fa-tasks'>&nbsp;</i>"
+    weight = 40
+  [[zh.menu.main]]
+    name = "活动"
+    url = "event"
+    pre = "<i class='fa fa-chalkboard'>&nbsp;</i>"
+    weight = 50
+  [[zh.menu.main]]
+    name = "著作"
+    url = "publication"
+    pre = "<i class='fa fa-book'>&nbsp;</i>"
+    weight = 60
