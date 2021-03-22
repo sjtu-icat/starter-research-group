@@ -22,22 +22,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Life itself is the most wonderful fairy tales.
 
-interests:
-- 对抗生成网络(GAN)
-- 模型压缩
-- 嵌入式网络
+# interests:
+# - 对抗生成网络(GAN)
+# - 模型压缩
+# - 嵌入式网络
 
-education:
-  courses:
-  - course: 计算机科学与技术（在读）
-    institution: 上海交通大学
-    year: 2019-
-  - course: 电子与通信工程
-    institution: 华东师范大学
-    year: 2016-2019
-  - course: 通信工程
-    institution: 华东师范大学
-    year: 2012-2016
+# education:
+#   courses:
+#   - course: 计算机科学与技术（在读）
+#     institution: 上海交通大学
+#     year: 2019-
+#   - course: 电子与通信工程
+#     institution: 华东师范大学
+#     year: 2016-2019
+#   - course: 通信工程
+#     institution: 华东师范大学
+#     year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,4 +71,8 @@ user_groups:
 - 博士研究生
 ---
 
-Mingye Xie received the B. Sc. degree from East China Normal University, China, in 2016, the M. Eng. Degree in electronics and communications engineering from East China Normal University, China, in 2019. He is currently pursing Ph. D. degree in computer science and technology from Shanghai Jiao Tong University, China. His research interests include generative adversial network(GAN) and model compressing.
+I have received the B. Sc. degree from East China Normal University, China, in 2016, the M. Eng. Degree in electronics and communications engineering from East China Normal University, China, in 2019. 
+
+I am currently pursing Ph. D. degree in computer science and technology from Shanghai Jiao Tong University, China. 
+
+My research interests include generative adversial network(GAN) and model compressing.

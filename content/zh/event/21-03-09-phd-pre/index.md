@@ -36,7 +36,7 @@ featured: false
 
 url_code: ""
 url_pdf: ""
-url_slides: "slides/GAN.pptx"
+url_slides: "https://jbox.sjtu.edu.cn/l/xFiwh8"
 url_video: ""
 
 # Markdown Slides (optional).

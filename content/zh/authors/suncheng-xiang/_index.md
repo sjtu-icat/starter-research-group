@@ -19,9 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-external_link: "https://jeremyxsc.github.io/"
+bio: 
 
 # interests:
 # - Artificial Intelligence
@@ -45,9 +43,12 @@ external_link: "https://jeremyxsc.github.io/"
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: https://JeremyXSC.github.io
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:xiangsuncheng17@sjtu.edu.cn'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen

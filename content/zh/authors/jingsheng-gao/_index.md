@@ -46,7 +46,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:gaojingsheng@sjtu.edu.cn'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -71,4 +71,8 @@ user_groups:
 - 博士研究生
 ---
 
-Need to fill the bio...
+​ I am a first-year PhD student at SJTU EECS, advised by Prof. Yuzhuo Fu. Previously, I obtained my bachelor's degree from school of Physics and Astromony, Shanghai Jiaotong University.
+
+​ I completed my undergraduate graduation project using different kinds of  U-nets, which is a astronomical task called extracting weak gravitational lens in CMB. Also, I have ever practiced in a medical company which is established by Fosun. During my first year, I have tried some projects on document understanding, like seal extraction and tabel detection.
+
+​ In the future, I will mainly put my attention on computer version and try to catch the future development of machine learning.

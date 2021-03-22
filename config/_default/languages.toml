@@ -20,6 +20,11 @@
     directions = "上海市闵行区东川路800号上海交通大学微电子大楼205室"
     address_format = "zh"
   [[zh.menu.main]]
+    name = "关于"
+    pre = "<i class='fa fa-sticky-note'>&nbsp;</i>"
+    url = "about"
+    weight = 10
+  [[zh.menu.main]]
     name = "成员"
     # identifier = "about"
     pre = "<i class='fa fa-user'>&nbsp;</i>"

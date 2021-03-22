@@ -30,8 +30,8 @@ image:
 #   icon: twitter
 
 url_code: "http://github.com"
-url_pdf: "slides/huayu.pdf"
-url_slides: "slides/huayu.pptx"
+url_pdf: "https://jbox.sjtu.edu.cn/l/7FDdIn"
+url_slides: "https://jbox.sjtu.edu.cn/l/7FDdIn"
 url_video: "http://youtube.com"
 
 # Slides (optional).

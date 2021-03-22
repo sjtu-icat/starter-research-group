@@ -44,6 +44,9 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: http://dmne.sjtu.edu.cn/dmne/faculty/fuyuzhuo/
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yzfu@sjtu.edu.cn'
