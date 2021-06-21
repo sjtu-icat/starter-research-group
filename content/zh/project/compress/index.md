@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "课堂行为识别"
-summary: "Openpose"
-authors: [zefang-yu]
+title: "模型压缩"
+summary: "Model compression"
+authors: [yibo-jin,da-shi]
 tags: []
 categories: []
-date: 2021-03-18T22:34:00+08:00
+date: 2021-06-21T11:00:00+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,10 +29,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "http://github.com"
-url_pdf: "slides/huayu.pdf"
-url_slides: "slides/huayu.pptx"
-url_video: "http://youtube.com"
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -42,6 +42,12 @@ url_video: "http://youtube.com"
 slides: ""
 ---
 
-OpenPose has represented the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.
+### 背景介绍
+待补充
 
-It is authored by Ginés Hidalgo, Zhe Cao, Tomas Simon, Shih-En Wei, Yaadhav Raaj, Hanbyul Joo, and Yaser Sheikh. It is maintained by Ginés Hidalgo and Yaadhav Raaj. OpenPose would not be possible without the CMU Panoptic Studio dataset. We would also like to thank all the people who has helped OpenPose in any way.
+### 应用场景
+待补充
+
+### 已有成果
+待补充
+

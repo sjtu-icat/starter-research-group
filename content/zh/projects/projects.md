@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: 历史项目
+title: 实验室项目
 subtitle: ''
 
 content:

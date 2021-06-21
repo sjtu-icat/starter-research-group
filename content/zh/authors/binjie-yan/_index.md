@@ -1,16 +1,18 @@
 ---
 # Display name
-title: 王峰
+title: 闫彬洁
 
 # Username (this should match the folder name)
 authors:
-- feng-wang
+- binjie-yan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2019级硕士生
+role: 2021级博士生
+
+weight: 25
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +46,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:shuipinglantian@sjtu.edu.cn'
+  link: 'mailto:name@sjtu.edu.cn'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -66,7 +68,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 硕士研究生
+- 博士研究生
 ---
 
 Need to fill the bio...
+

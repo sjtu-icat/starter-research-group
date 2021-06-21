@@ -41,11 +41,11 @@
     url = "projects"
     pre = "<i class='fa fa-tasks'>&nbsp;</i>"
     weight = 40
-  [[zh.menu.main]]
-    name = "活动"
-    url = "event"
-    pre = "<i class='fa fa-chalkboard'>&nbsp;</i>"
-    weight = 50
+#  [[zh.menu.main]]
+#    name = "活动"
+#    url = "event"
+#    pre = "<i class='fa fa-chalkboard'>&nbsp;</i>"
+#    weight = 50
   [[zh.menu.main]]
     name = "著作"
     url = "publication"

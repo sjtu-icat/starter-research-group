@@ -30,11 +30,20 @@ design:
 
 ### 科研方向
 
-研究领域：
--  跨域深度学习行人重识别
--  领域多模态数据挖掘与理解
--  硬件驱动的深度学习模型轻量化设计
--  人工智能系统可靠性分析
+主要研究领域：（点击链接查看具体项目内容）
+- 行人重识别
+  - [跨域行人重识别](../project/reid)
+- 多模态行为分析
+  - [人体行为识别](../project/skeleton/)
+  - [微表情识别](../project/micro-expr/)
+  - [会议自动摘要](../project/summary/)
+- 深度学习模型轻量化设计
+  - [模型压缩](../project/compress/)
+- 基于生成对抗网络的应用
+  - [属性编辑](../project/gan-editing/)
+  - 物体伪装
+- 智能文档理解
+  - [文档理解、APP分析、表格理解](../project/document/)
 
 合作单位：
 - 科技部、国家自然科学基金委
@@ -67,16 +76,16 @@ design:
 {{< figure src="./about-lab-6.jpg" caption="会议室" >}}
 
 ### 实验室资源
-独占GPU运算平台
-- 服务器Intel Xeon E5-2690 + NVidia Tesla P100*4
-- 服务器Intel Xeon E5-2690 + NVidia RTX3090*4
-- 嵌入式GPU板卡Nvidia TX2
+- 独占GPU运算平台
+  - 服务器：Intel Xeon E5-2690 + 4*Nvidia Tesla P100
+  - 服务器：Intel Xeon Gold 6240 + 4*Nvidia GeForce RTX3090
+  - 嵌入式GPU板卡Nvidia TX2
 
-FPGA加速卡
-- Xilinx异构MPSoC：Zynq UltraScale+MPSoC ZCU102
-- Alpha Data异构计算板卡：ADM-PCIE-7V3，Xilinx Virtex 7
-- Intel Altera异构计算板卡：DE5-Net，Altera Stratix V
-- Zynq™-7000系列嵌入式板卡 : Zedboard/ZyBo/PYNQ 
+- FPGA加速卡
+  - Xilinx异构MPSoC：Zynq UltraScale+MPSoC ZCU102
+  - Alpha Data异构计算板卡：ADM-PCIE-7V3，Xilinx Virtex 7
+  - Intel Altera异构计算板卡：DE5-Net，Altera Stratix V
+  - Zynq™-7000系列嵌入式板卡 : Zedboard/ZyBo/PYNQ 
 
 ### 毕业生就业情况
 
