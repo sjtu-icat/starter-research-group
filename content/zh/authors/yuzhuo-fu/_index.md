@@ -83,3 +83,13 @@ user_groups:
 发表国内外高水平论文100余篇，担任多个国际会议、核心期刊的审稿人。主持过国家863、上海市科委等课题，参与国家核、高、基重大科研项目，获得过2008年上海市领军人才荣誉，多次荣获上海交通大学优秀教师称号。
 
 担任国家集成电路人才培养基地委员会委员、上海交通大学电类学部学位委员会委员、上海交通大学国家集成电路人才培养基地负责人、上海交通大学教学指导委员会委员、上海交通大学实践教学委员会主任委员；上海集成电路行业协会副理事长单位上海交通大学负责人、上海市科委领域预测专家、上海市经信委聘任专家、闵行区科委专家、紫竹科技园集成电路平台建设专家。
+
+Prof. Yuzhuo Fu vice director of student Innovation center, and leading the Innovative Computer Architecture and Technology Lab (iCAT) at Dept. of Micro/Nano Electronics, SJTU.
+
+He received a B.S. degree from the Computer Engineering Department at Changsha Institute of Technology, and M.S. and Ph.D. degrees from the Computer Science and Engineering Department, Harbin Institute of Technology.
+Before joining SJTU in 2001, he worked as a Senior Engineer for the electric engineering institute of Heilongjiang University and Computing Center of Heilongjiang Province.
+
+He is a Present Deputy Professor of the undergraduate student affairs office of SJTU.
+
+His research interests include fault-tolerant architecture, heterogeneous system architecture, and edge computing architecture. 
+Especially focused on application-driven design/architecture innovations, which include novel architectures for artificial intelligence (AI) and acceleration with CPU/GPU/FPGA.

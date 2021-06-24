@@ -2,5 +2,5 @@
 # Files in this folder represent a Widget Page
 type: widget_page
 
-title: 历史项目
+title: 实验室项目
 ---
